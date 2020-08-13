@@ -1,2 +1,2 @@
-# Patch-Legend-Shape-QGI
+# Patch-Legend-Shape-QGIS
 Simbologia personalizada para qgis
